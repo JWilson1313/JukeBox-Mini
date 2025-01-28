@@ -1,0 +1,18 @@
+{
+  "name": "36-jukebox_mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "You've been hired to create the backend for a digital music service. The team's still working on getting access to tracks, but for now, you can get started on the playlist functionality.",
+  "keywords": [],
+  "devDependencies": {
+    "prisma": "^6.2.1"
+  }
+}
